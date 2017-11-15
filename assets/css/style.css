@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css?family=Yantramanav:100');
+
+.meniu li {
+    float:left;
+    display: inline;
+    padding: 10px 20px 10px 20px;
+}
+
+.headeris {
+    background-color: #1c1821;
+    color:#f7ba6a;;
+     text-shadow: 1px 1px #685d76;
+}
+
+a, a:hover {
+    color:#f7ba6a;;
+    text-shadow: 1px 1px #685d76;  
+}
+
+.slideris {
+    background-image: url("http://localhost/Projektas/Objektinis%20MVC%20Blogas/images/slide.jpg");
+    background-size: cover;
+    height:500px;
+    color: white;
+    
+}
+
+.slideris_title {
+    line-height: 500px;
+    text-shadow: 1px 1px #000000;
+}
+
+.contentas {
+    background-color: #1c1821;
+    color: white;
+    padding:50px;
+}
+
+.sidebaro_wrapas {
+    margin-left:50px;
+
+}
+
+.sidebaras {
+    background-color: #1c1821;
+    color: white;
+    padding:50px;
+    margin-bottom: 30px;
+}
+
+.contento_wrapas {
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+}
+
+.contento_background_wrap {
+    background-color: #68577e;
+}
+
+hr { 
+  height: 30px; 
+  border-style: solid; 
+  border-color: #8c8b8b; 
+  border-width: 1px 0 0 0; 
+  border-radius: 20px;
+  margin-top: 30px; 
+} 
+hr:before { 
+  display: block; 
+  content: ""; 
+  height: 30px; 
+  margin-top: -31px; 
+  border-style: solid; 
+  border-color: #8c8b8b; 
+  border-width: 0 0 1px 0; 
+  border-radius: 20px; 
+}
+
+.footeris {
+    background-color: black;
+    color:white;
+    padding-top:30px;
+    padding-bottom: 30px;
+}
